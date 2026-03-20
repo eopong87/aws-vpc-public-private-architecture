@@ -55,3 +55,19 @@ Add multiple web servers for high availability
 Create an Auto Scaling Group  
 Add a private database tier  
 Automate infrastructure using Terraform
+
+
+
+## Screenshots
+
+### Application Load Balancer
+![ALB](alb.png)
+
+### Target Group (Healthy)
+![Target Group](target-group.png)
+
+### Auto Scaling Group
+![Auto Scaling](autoscaling.png)
+
+### Live Website
+![Website](browser.png)
